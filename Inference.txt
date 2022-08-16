@@ -1,0 +1,12 @@
+This usecase is to predict whether the given text is Flirt or Non-Flirt
+
+This usecase has scope in the following applications.
+    1. WhatsApp communication
+    2. Email conversation
+    3. YouTube comments 
+    
+I have implemented the usecase in 4 different models,
+    Multi-Nominal- 71.4%
+    SVM- 57.1%
+    Random Forest- 54.3%
+    Decision Tree- 54.3%
